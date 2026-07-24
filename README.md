@@ -72,14 +72,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-sp115&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-sp115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-sp115&theme=dracula" alt="profile summary" width="820" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-sp115&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=J-sp115&theme=dracula" alt="stats" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-sp115&theme=dracula" alt="languages" height="185" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-sp115&theme=dracula" alt="most used languages" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-sp115&theme=dracula&utcOffset=3" alt="productive time" height="185" />
 </div>
 
 ###
