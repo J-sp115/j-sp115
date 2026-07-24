@@ -72,21 +72,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-sp115&theme=dracula" alt="profile summary" width="820" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="repos per language" height="185" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="most commit language" height="185" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=J-sp115&theme=dracula" alt="stats" height="185" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-sp115&theme=dracula" alt="languages" height="185" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-sp115&theme=dracula" alt="most used languages" height="185" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-sp115&theme=dracula&utcOffset=3" alt="productive time" height="185" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" height="185" />
 </div>
 
 ###
